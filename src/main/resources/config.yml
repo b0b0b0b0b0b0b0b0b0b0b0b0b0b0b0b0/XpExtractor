@@ -1,0 +1,25 @@
+# Experience bottle conversion rate
+conversion_rate: 1.0
+
+# Average experience per bottle
+exp_per_bottle: 7.0
+
+# Minimum number of bottles a player can receive
+min_bottles: 1
+
+# Maximum number of bottles a player can receive
+max_bottles: 64
+
+# Allow conversion of all experience without specifying level count
+allow_convert_all: true
+
+# Experience bottle material (default is EXP_BOTTLE)
+bottle_material: 'EXP_BOTTLE'
+
+# Permissions
+permissions:
+  use: 'expbottle.use'
+  admin: 'expbottle.admin'
+
+# Maximum level count for tab completion
+max_tab_complete_levels: 10

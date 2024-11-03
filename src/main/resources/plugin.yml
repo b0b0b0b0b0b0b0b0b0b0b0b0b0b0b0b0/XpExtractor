@@ -1,0 +1,6 @@
+name: XpExtractor
+version: '${project.version}'
+main: com.bobobo.plugins.xpextractor.XpExtractor
+website: https://black-minecraft.com/resources/6949/
+commands:
+  expbottle:

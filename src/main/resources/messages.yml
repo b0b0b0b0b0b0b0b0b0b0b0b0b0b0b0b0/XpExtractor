@@ -1,0 +1,8 @@
+no_permission: '&cYou do not have permission to use this command.'
+not_a_player: '&cOnly a player can use this command.'
+invalid_number: '&cPlease enter a valid number of levels.'
+not_enough_levels: '&cYou do not have enough levels.'
+must_specify_levels: '&cYou must specify the number of levels for conversion.'
+convert_success: '&aYou converted %exp% experience into %bottles% experience bottles.'
+not_enough_exp: '&cYou do not have enough experience for conversion into bottles.'
+reload_success: '&aPlugin configuration and messages successfully reloaded.'
